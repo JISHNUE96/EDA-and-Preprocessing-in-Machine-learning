@@ -1,2 +1,5 @@
 # EDA-and-Preprocessing-in-Machine-learning
-Assignment: EDA and Preprocessing
+Exploratory Data Analysis (EDA) and Preprocessing Assignment
+This assignment focuses on Exploratory Data Analysis (EDA) and Data Preprocessing, key steps in the data science workflow. During EDA, various techniques are used to understand the dataset, including summarizing features, identifying patterns, and detecting anomalies. Key tasks include handling missing values, analyzing feature distributions using histograms, boxplots, and scatter plots, and uncovering relationships through correlation heatmaps.
+
+In the Data Preprocessing phase, steps like data cleaning, normalization, encoding categorical variables, and feature scaling are performed to prepare the data for machine learning models. Techniques such as handling outliers with Z-scores or IQR, imputing missing values, and splitting the dataset into training and testing sets are applied. This assignment demonstrates the importance of EDA and preprocessing in ensuring the dataset is accurate, consistent, and ready for analysis or modeling.
